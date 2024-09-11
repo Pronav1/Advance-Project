@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540414044971",
+    "project_id": "music-app-1c11f",
+    "storage_bucket": "music-app-1c11f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540414044971:android:eb78b772cbfd89f18e336e",
+        "android_client_info": {
+          "package_name": "com.pranavpandey.musicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXErx6-60Rn8OBGLj8n15fod3tqZkbeSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
